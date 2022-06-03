@@ -1,0 +1,20 @@
+SAVE
+C:\NidecDAQ\Config\default.txt
+C:\NidecDAQ\Data\SAVE_A1234_262022.csv
+NCVH
+VH12
+GREENPLANET
+AA
+EI01
+E-TESTER4 / E-Tester260   No. 500
+5000
+2500
+25
+23
+100
+90
+A1234
+1
+10
+2
+C:\NidecDAQ\PQM
