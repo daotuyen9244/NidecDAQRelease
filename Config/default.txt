@@ -1,6 +1,6 @@
 SAVE
 C:\NidecDAQ\Config\default.txt
-C:\NidecDAQ\Data\SAVE_A1234_562022.csv
+C:\NidecDAQ\Data\SAVE_A1234_662022.csv
 NCVH
 VH12
 GREENPLANET
@@ -9,8 +9,8 @@ EI01
 E-TESTER4
 5000
 200
-30.6
-20.3
+30.5
+18.2
 0.1
 0.03
 A1234
